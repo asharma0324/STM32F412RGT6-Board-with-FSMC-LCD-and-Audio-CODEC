@@ -8,6 +8,8 @@ Legends :
 
 3V3 - **Red**
 
+GND - **NEON GREEN**
+
 Digital IO from CODEC - **Purple**
 
 Analog IO from CODEC - **Aqua Blue**
@@ -23,5 +25,8 @@ FSMC Interface to Connector - **White**
 SWD Interface for debugging
 
 USB-C Implemented with ESD Protection
+
+Copper Balance for Board provided
+
 
   
